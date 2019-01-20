@@ -122,6 +122,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
+* [\`es${version}\`](https://t.me/es6_ru) — Чат про EcmaScript
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
